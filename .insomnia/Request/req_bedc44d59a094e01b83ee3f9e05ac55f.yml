@@ -1,0 +1,21 @@
+_id: req_bedc44d59a094e01b83ee3f9e05ac55f
+type: Request
+parentId: fld_6cd653ce9ff743b0821266697c53cf00
+modified: 1665161895707
+created: 1662656186842
+url: http://localhost:49151/context
+name: feature service direct call
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1663435596716.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
